@@ -1,4 +1,4 @@
-console.log("Hello World");
+console.log("Hello World!");
 
 $("test1").on("click", function () {
     console.log("test1 clicked!");
